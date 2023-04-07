@@ -13,21 +13,35 @@ If you have a small knowledge about cheat development in general you can build t
 
 AIM
 >Aimbot
+
 >Visible Check
+
 >FOV Circle
+
 >Aimkey
+
 >Hitbox
+
 >Smoothing
+
 >FOV Size
 
 VISUALS
 > Draw Box
 
 OTHER
-> Draw Crosshair
-> Draw FPS
-> Screenshare protection
-> FPS Cap
-> FPS
-> Menu key
-> Panic key
+>Draw Crosshair
+
+>Draw FPS
+
+>Screenshare protection
+
+>FPS Cap
+
+>FPS
+
+>Menu key
+
+>Panic key
+
+**If you claim this as yours or sell this you get DMCA´d and clowned**
