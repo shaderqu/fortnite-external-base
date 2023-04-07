@@ -9,7 +9,10 @@ I made this source since I was bored and had nothing to do. It is a kinda good s
 If you have a small knowledge about cheat development in general you can build this solution easily by yourself
 
 **Features**
+
 *Remember it is ONLY a base*
+
+**Contains Lenovo mapper to map the included driver, has Camera decryption (Lobby ESP, Spectator ESP and so on), has very good threads, very well optimized, easy to add features**
 
 AIM
 >Aimbot
