@@ -11,7 +11,7 @@ If you have a small knowledge about cheat development in general you can build t
 
 *Remember it is ONLY a base*
 
-**Contains Lenovo mapper to map the included driver, has Camera decryption (Lobby ESP, Spectator ESP and so on), has very good threads, very well optimized, easy to add features**
+**Contains Lenovo mapper to map the included driver (should be UD on EAC, BE unknown), has Camera decryption (Lobby ESP, Spectator ESP and so on), has very good threads, very well optimized, easy to add features**
 
 AIM
 >Aimbot
