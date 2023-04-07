@@ -12,13 +12,13 @@ If you have a small knowledge about cheat development in general you can build t
 *Remember it is ONLY a base*
 
 AIM
-> Aimbot
-> Visible Check
-> FOV Circle
-> Aimkey
-> Hitbox
-> Smoothing
-> FOV Size
+>Aimbot
+>Visible Check
+>FOV Circle
+>Aimkey
+>Hitbox
+>Smoothing
+>FOV Size
 
 VISUALS
 > Draw Box
@@ -27,7 +27,7 @@ OTHER
 > Draw Crosshair
 > Draw FPS
 > Screenshare protection
-> FPC Cap
+> FPS Cap
 > FPS
 > Menu key
 > Panic key
