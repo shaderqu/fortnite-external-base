@@ -1,1 +1,1 @@
-Basic but very clean, updated and understandable (I wrote comments everywhere) Fortnite external source code. Using Directx11 and ImGui. Has a custom mouse aimbot and has insane performance + loops & caching
+Basic but very clean, updated and understandable (I wrote comments everywhere) Fortnite external source code, using Directx11 and ImGui. Has a custom mouse aimbot and has insane performance + loops & caching
